@@ -1,4 +1,6 @@
-[
+{
+ "persons": [
 {"id": 1, "firstName": "John", "lastName": "Rembo", "age": 55},
 {"id": 2, "firstName": "Rocky", "lastName": "Balbo", "age": 65}
 ]
+}
